@@ -1,4 +1,4 @@
-# Easy-Notes
+# Easy-Notes - Chrome Extension
 
 Easiest way for taking quick notes.
 
