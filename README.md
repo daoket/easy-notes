@@ -2,13 +2,16 @@
 
 Easiest way for taking quick notes.
 
-![](img/2019-02-18-12-51-37.png)
+![](img/2021-03-17-11-17-24.png)
 
 Easy Notes - A perfect tool for taking quick notes. Its fast, secure, and private. A must tool for everyone. 
 
 - Chrome Web Store: https://chrome.google.com/webstore/detail/hepiplahmadecihpoebffepnghmmkjem
 
 ### RECENT UPDATES:
+
+** Update 1.1 (2020-12-24) **
+1. Beautify style
 
 ** Update 1.1 (2019-2-18) **
 1. Beautify style
