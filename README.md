@@ -10,10 +10,10 @@ Easy Notes - A perfect tool for taking quick notes. Its fast, secure, and privat
 
 ### RECENT UPDATES:
 
-** Update 1.1 (2020-12-24) **
-1. Beautify style
+** Update 1.4 (2024-1-12) **
+1. support Manifest V3
 
-** Update 1.1 (2019-2-18) **
+** Update 1.3 (2020-12-24) **
 1. Beautify style
 
 ** Update 1.0 (2019-1-27) **
